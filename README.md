@@ -1,4 +1,4 @@
-# vue-rentcar
+# Base Web Template Vue
 
 ## Project setup
 ```
